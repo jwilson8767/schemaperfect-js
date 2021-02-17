@@ -1,5 +1,5 @@
+#!/usr/bin/env node
 
-'use strict';
 import get from 'lodash-es/get.js';
 import uniq from 'lodash-es/uniq.js';
 import * as fs from 'fs';

@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 import {ValidationError, validate, } from 'jsonschema';
 import clone from 'lodash-es/clone';
 import cloneDeep from 'lodash-es/cloneDeep';
